@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JSQuestion3</title>
+</head>
+<body>
+    <script src="jsquestion3.js">  </script>
+</body>
+</html>
+var num1 = window.prompt("Enter the number");
+if(num1 ==2)
+{
+    document.write(num1+" is an even number");
+}else{
+    document.write(num1+" is an odd number");
+}

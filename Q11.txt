@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>JSQuestion11</title>
+</head>
+<body>
+    <script src="jsquestion11.js">  </script>
+<p> Reverse String</p>
+</body>
+</html>
+
+var arr= ["The","quick","brown"," fox"," jumps"," over"," the", "lazy", "dog"];
+/*
+in console
+arr;
+(9) ['The', 'quick', 'brown', ' fox', ' jumps', ' over', ' the', 'lazy', 'dog']
+arr.reverse();
+(9) ['dog', 'lazy', ' the', ' over', ' jumps', ' fox', 'brown', 'quick', 'The']
+*/

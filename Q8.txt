@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div id="combined"> </div>
+
+<script src="jsquestion8.js"></script>
+
+</body>
+</html>
+
+const arr1 = ['a', 'b', 'c'];
+const arr2 = ['1', '2','3'];
+
+const combined = arr1.concat(arr2);
+
+console.log(arr1); 
+console.log(arr2); 
